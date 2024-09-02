@@ -1,0 +1,36 @@
+Basic data types:
+boolean, float, integer, string, long
+lists- mutable and contain arbitrary data []
+Tuples-immutable, do not change ()
+Dictionary- key, value pairs. {}
+
+Finding an element:
+sequential search- search thru the list.
+binary search- list separated and reseparated into 2 until it returns true. works for 
+                unsorted list.
+
+Conditions and loops:
+if- checks the condition, executes for true then stops. Otherwise, it stops.
+if... elif-- provides a second conditional branch.
+while-- gives room for iteration until a condition is met.
+do..while--runs atleast once even if the condition is not satisfied.
+
+Abstract class and methods:
+These are classes or methods that do nothing. methods contain pass keyword.
+
+Nested classes:
+contain other classes within them.
+
+Variables:
+Basically, memory location
+Local, class and instance variables.
+
+Methods:
+Also functions.
+class and instance methods.
+
+Object:
+Entity with a state and behaviour.
+Objects together form a class.
+
+Enums????
