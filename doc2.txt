@@ -1,0 +1,24 @@
+Stack:
+Stack is a memory in which values are stored and retrieved in “last in first out”
+manner
+pop and push== remove and add respectively
+
+Recursive functions:
+function that calls itself
+slower than loops 
+2 parts -Termination Condition and Body.
+termination condition- simple with no recursion or function will run continously and consume all stack memory
+Three important properties of recursive algorithm are:
+ 1.    A recursive algorithm must have a termination condition.
+ 2.    A recursive algorithm must change its state, and move towards the termination
+ condition.
+ 3.    A recursive algorithm must call itself
+
+
+            -factorial
+            -base 16 integers(specific base method)
+            -tower of hanoi
+            -GCD
+            -Fibonacci
+            -Permutations
+            -Binary search using recursion
