@@ -4,6 +4,7 @@ Outline:
 introduction to algorithms
 time and space complexity
 big O notation
+
         ESSENTIAL D.S
 Arrays and strings
 Linked lists- singly, doubly, circular
